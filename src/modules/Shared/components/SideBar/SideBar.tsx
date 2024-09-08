@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Sidebar, Menu, MenuItem } from "react-pro-sidebar";
 import { Link, useLocation } from "react-router-dom";
-import "./Sidebar.scss";
+import "./SideBar.scss";
 import IMAGES from "../../../../assets/images/images";
 import useUserInformation from "../../../../constants/useUserInformation";
 import SwitchButton from "../LayoutHeader/SwitchButton";
