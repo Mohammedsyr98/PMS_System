@@ -42,7 +42,7 @@ export default function UserDeleteModal({
       <Modal
         show={modalShow}
         onHide={() => setModalShow(false)}
-        size="md"
+        size="sm"
         aria-labelledby="contained-modal-title-vcenter"
         centered>
         <div className="d-flex justify-content-end mx-4 my-4">
